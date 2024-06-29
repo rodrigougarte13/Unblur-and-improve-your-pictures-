@@ -11,7 +11,6 @@ Ths is the best result, we we can see there is evident correction of the blurrin
 This video was really helpful in understaing the UNet: https://www.youtube.com/watch?v=NhdzGfB1q74
 
 <br><br>
-
 To set up the environment, install these libraries using pip:
 ```python
 pip install opencv-python tensorflow scikit-learn
